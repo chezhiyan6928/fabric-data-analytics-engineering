@@ -38,7 +38,7 @@ Transform raw sales data (with currency symbols, nulls, inconsistent formats) in
 - Derived `profit_margin_percentage = (profit / sales) * 100`.
 - Published professional Power BI dashboard with filters and date hierarchy.
 
-📄 [View Dashboard (PDF)](Financial_Analytics/report/financial_dashboard.pdf)
+📄 [View Dashboard (PDF)](Financial_Analytics/Financial_Analytics.pdf)
 
 ---
 
