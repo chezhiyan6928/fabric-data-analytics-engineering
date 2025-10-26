@@ -14,6 +14,10 @@ Projects included:
 - **Earthquake Analytics Project** — A real-world Fabric + PySpark pipeline using USGS data and reverse geocoding enrichment.
 
 ---
+## 🏗️ Medallion Architecture Overview
+
+![Medallion Architecture](docs/medallion_architecture.png)
+
 ---
 
 ## 🧩 Technologies Used
