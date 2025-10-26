@@ -1,1 +1,9 @@
-
+pyspark
+pandas
+numpy
+pyarrow
+requests
+geopy
+Fabric
+Power BI
+SQL
