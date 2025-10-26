@@ -69,3 +69,9 @@ Ingest and process real-world earthquake data using USGS API → enrich with geo
 ✅ Power BI Integration with Fabric Lakehouse  
 
 ---
+
+## 👤 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananchezhiyante)
+
+---
