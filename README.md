@@ -53,7 +53,7 @@ Ingest and process real-world earthquake data using USGS API → enrich with geo
 - Classified significance levels (`Low`, `Moderate`, `High`).
 - Stored in Delta Gold table for visualization.
 
-📄 [View Dashboard (PDF)](Earthquake_Analytics/report/earthquake_dashboard.pdf)
+📄 [View Dashboard (PDF)](Earthquakes_Analytics/Earthquake_Event.pdf)
 
 ---
 
