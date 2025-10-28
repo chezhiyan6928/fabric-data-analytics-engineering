@@ -32,8 +32,8 @@ This project demonstrates expertise in **Data Analytics Engineering** by designi
 
 ## 📊 Project Visuals
 
-*(<img width="1358" height="753" alt="image" src="https://github.com/user-attachments/assets/8523a509-465e-436b-a6bc-54524ff631eb" />
-)*
+*<img width="1358" height="753" alt="image" src="https://github.com/user-attachments/assets/8523a509-465e-436b-a6bc-54524ff631eb" />
+*
 
 
 
