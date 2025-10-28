@@ -44,7 +44,7 @@ Design and implement a scalable Analytics Engineering pipeline to transform **32
 - **Semantic Modeling:** Created analytical measures like **Products Per Order (PPO)** and **Total Sales** using DAX in Power BI.  
 - **Delivery:** Published a professional Power BI dashboard visualizing **hourly order peaks, product demand trends, and customer frequency** using **Direct Lake connectivity**.  
 
-📄 [View Dashboard (PDF)](Instacart_Analytics/report/RPT_Instacart_Dashboard.pdf)  
+📄 [View Dashboard (PDF)](Instacart-Analytics/report/RPT_Instacart_Dashboard.pdf)  
 
 ---
 
