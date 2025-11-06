@@ -1,4 +1,3 @@
-```mermaid
 graph LR
     %% Styles
     classDef source fill:#f9f9f9,stroke:#333,stroke-width:2px;
@@ -9,7 +8,7 @@ graph LR
 
     %% External Source
     subgraph Source [External Data Source]
-        API[Yahoo Finance API]:::source
+        API["Yahoo Finance API"]:::source
     end
 
     %% Microsoft Fabric Environment
@@ -17,21 +16,21 @@ graph LR
         direction TB
         
         %% Orchestration
-        Pipeline[Fabric Data Pipeline<br/>(Daily Schedule)]:::process
+        Pipeline["Fabric Data Pipeline<br/>(Daily Schedule)"]:::process
 
         %% Notebooks / Processing
-        NB_Daily[NB_02: Daily Incremental<br/>(PySpark/Python)]:::process
+        NB_Daily["NB_02: Daily Incremental<br/>(PySpark/Python)"]:::process
 
         %% Storage Layers (OneLake)
         subgraph OneLake [OneLake Storage]
             direction LR
-            Bronze[(Bronze Layer<br/>Raw Delta Files)]:::storage
-            Silver[(Silver Layer<br/>Cleaned Delta Table)]:::storage
-            Gold[(Gold Layer<br/>Partitioned Delta Table)]:::storage
+            Bronze[("Bronze Layer<br/>Raw Delta Files")]:::storage
+            Silver[("Silver Layer<br/>Cleaned Delta Table")]:::storage
+            Gold[("Gold Layer<br/>Partitioned Delta Table")]:::storage
         end
 
         %% Visualization
-        PBI[Power BI Dashboard<br/>(Direct Lake Mode)]:::serving
+        PBI["Power BI Dashboard<br/>(Direct Lake Mode)"]:::serving
     end
 
     %% Flows
