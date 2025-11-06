@@ -48,4 +48,3 @@ The final dashboard allows analysts to compare daily price movements against the
 ## 📂 Repository Structure
 
 * **`notebooks/`**: Contains the PySpark code for historical backfill and daily incremental updates.
-* **`sql/`**: Verification queries used to validate the Gold layer.
