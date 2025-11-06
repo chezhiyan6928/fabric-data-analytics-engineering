@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     %% Styles
     classDef source fill:#f9f9f9,stroke:#333,stroke-width:2px;
