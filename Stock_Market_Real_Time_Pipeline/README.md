@@ -27,7 +27,7 @@ The system automatically fetches daily data for major tech stocks (AAPL, MSFT, G
 
 ---
 
-## 🚀 Key Engineering Highlights (DP-700 Skills)
+## 🚀 Key Engineering Highlights
 
 * **Incremental Data Processing:** Implemented a robust **Delta MERGE** strategy to handle daily upserts without full table reloads, optimizing compute costs.
 * **Advanced PySpark Transformations:** Utilized Window functions for time-series analytics (`avg(close).over(window_spec)`).
