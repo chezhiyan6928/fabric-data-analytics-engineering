@@ -46,7 +46,7 @@ Build a fully automated **daily stock market analytics pipeline** on **Microsoft
 - **Orchestration:** Automated with a **daily scheduled Fabric Data Pipeline** using dependency-managed notebooks.  
 - **Dimensional Modeling:** Designed a **Star Schema** with `FactStocks` (Gold) and `DimCompany`/`DimDate`.  
 
-📄 [View Dashboard (PDF)](StockMarket_Analytics/report/StockMarket_Analytics.pdf)
+📄 [View Dashboard (PDF)](Stock_Market_Real_Time_Pipeline/report/RPT_Stockmarket_Dashboard.pdf)
 
 ---
 
