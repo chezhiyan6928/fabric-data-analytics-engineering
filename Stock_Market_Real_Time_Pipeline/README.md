@@ -39,7 +39,7 @@ The system automatically fetches daily data for major tech stocks (AAPL, MSFT, G
 
 ## 📊 Final Dashboard
 
-*(Insert your Power BI screenshot here showing the Price vs. SMA chart)*
+*<img width="1293" height="724" alt="image" src="https://github.com/user-attachments/assets/6e142c42-9d83-4731-b0c3-6580db2a1cf5" />*
 
 The final dashboard allows analysts to compare daily price movements against the 7-day moving average trendline for any selected stock.
 
